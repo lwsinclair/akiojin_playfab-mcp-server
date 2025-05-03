@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-akiojin-playfab-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-akiojin-playfab-mcp-server)
+
 # PlayFab MCP Server
 [![smithery badge](https://smithery.ai/badge/@akiojin/playfab-mcp-server)](https://smithery.ai/server/@akiojin/playfab-mcp-server)
 
